@@ -13,6 +13,13 @@
   </p>
 </div>
 
+<!-- LINE 1 -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ABOUT ME -->
+I am fullstack developer from India working as a software developer at Impetus Technologies. I am a part of American Express (AMEX) CADANCE team. I am an engineer with interest and knowledge in languages and techologies such as Java, Spring Boot, React, Python, C/C++, DSA. I have recently discovered my interest in hackathons. I took part in some of the online hackathons hosted by MLH (Major League Hacking) and won a catagory prize in my first ever hackathon for "Best Accessibility Hack".
+
+<!-- LINE 2 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- TECH STACK -->
@@ -25,7 +32,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,react,js,py,c,cpp,docker,mysql,mongodb,express,bootstrap,html,css,vscode,idea,vercel,postman,github,git&perline=50&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,react,js,angular,py,c,cpp,docker,mysql,mongodb,express,bootstrap,html,css,anaconda,vscode,idea,vercel,postman,github,git&perline=50&theme=dark" />
 	</a>
 </div>
 
@@ -51,7 +58,7 @@
 
 <!-- VISITORS COUNT -->
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=soneyaa&label=Visitors&color=09476f&style=flat" alt="Github visitors count" /> 
+  <img src="https://komarev.com/ghpvc/?username=soneyaa&label=Visitors&color=09476f&style=for-the-badge" alt="Github visitors count" /> 
 </p>
 
 <!-- GITHUB STATS -->
@@ -64,7 +71,6 @@
 | Stats | Streak |
 | :---: | :---: |
 | <img src="https://github-readme-stats.vercel.app/api?username=soneyaa&title_color=56A076&icon_color=56A076&text_color=8FD8C6&bg_color=00000000&show_icons=true&locale=en&layout=compact" alt="soneyaa" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=soneyaa&stroke=56A076&ring=56A076&fire=8FD8C6&currStreakNum=56A076&currStreakLabel=56A076&sideNums=56A076&sideLabels=56A076&dates=8FD8C6&bg_color=00000000&show_icons=true&locale=en&layout=compact&theme=transparent" alt="soneyaa" /> |
-
 
 <!-- CONTRIBUTION GRAPH ARTWORK -->
 [![Soniya Namdev's gitartwork](gitartwork.svg)](https://github.com/soneyaa)
