@@ -32,7 +32,7 @@ I am fullstack developer from India working as a software developer at Impetus T
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,react,js,angular,py,c,cpp,docker,mysql,mongodb,express,bootstrap,html,css,anaconda,vscode,idea,vercel,postman,github,git&perline=50&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,react,js,angular,vue,py,c,cpp,docker,mysql,postgres,mongodb,gcp,express,bootstrap,html,css,anaconda,vscode,idea,linux,vercel,postman,github,git&perline=50&theme=dark" />
 	</a>
 </div>
 
