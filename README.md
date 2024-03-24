@@ -64,3 +64,7 @@
 | Stats | Streak |
 | :---: | :---: |
 | <img src="https://github-readme-stats.vercel.app/api?username=soneyaa&title_color=56A076&icon_color=56A076&text_color=8FD8C6&bg_color=00000000&show_icons=true&locale=en&layout=compact" alt="soneyaa" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=soneyaa&stroke=56A076&ring=56A076&fire=8FD8C6&currStreakNum=56A076&currStreakLabel=56A076&sideNums=56A076&sideLabels=56A076&dates=8FD8C6&bg_color=00000000&show_icons=true&locale=en&layout=compact&theme=transparent" alt="soneyaa" /> |
+
+
+<!-- CONTRIBUTION GRAPH ARTWORK -->
+[![Soniya Namdev's gitartwork](gitartwork.svg)](https://github.com/soneyaa)
